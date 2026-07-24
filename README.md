@@ -25,5 +25,3 @@ Files
 - `gui.py` — the GUI application
 - `decryptsetting.py` / `encrypt.py` — reference scripts included in the repo
 - `setting.txt` / `decrypted.txt` — example files (if present)
-
-If you want I can: run a quick smoke test using the existing `setting.txt` in the workspace, or add packaged binaries for each OS.
