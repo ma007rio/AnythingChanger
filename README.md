@@ -24,4 +24,4 @@ Notes
 Files
 - `gui.py` — the GUI application
 - `decryptsetting.py` / `encrypt.py` — reference scripts included in the repo
-- `setting.txt` / `decrypted.txt` — example files (if present)
+- `setting.txt` — example file
